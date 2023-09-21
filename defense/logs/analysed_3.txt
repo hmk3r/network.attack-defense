@@ -1,0 +1,19 @@
+Total packets: 3941
+Unique ASes: 4
+Unique IPs: 3884
+Unique Ports: 3768
+Unique ASes_IPs: 3884
+Unique IPs_Ports: 3941
+Unique ASes_IPs_Ports: 3884
+Unique nonces: 3941, all unique
+----------Packet count per IP----------
+17-ffaa:0:1117,1969475060 - 15 requests
+17-ffaa:0:1117,3629341425 - 15 requests
+17-ffaa:0:1117,1115308143 - 15 requests
+17-ffaa:0:1117,465744645 - 16 requests
+	-> Omitted 3880 IPs because they sent a single packet
+----------Packet count per AS----------
+17-ffaa:0:111a - 965 requests
+17-ffaa:0:1118 - 968 requests
+17-ffaa:0:111b - 986 requests
+17-ffaa:0:1117 - 1022 requests
